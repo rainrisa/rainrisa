@@ -1,4 +1,2 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainrisa&amp;theme=nord" alt="GitHub Streaks" width="49%" />
-  <img src="https://gitcard.vercel.app/api?username=rainrisa&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />
-</p>
+[![rainrisa's github stats](https://github-readme-stats.vercel.app/api?username=rainrisa&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainrisa&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](#)
